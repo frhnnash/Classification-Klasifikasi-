@@ -1,11 +1,8 @@
 # Classification-Klasifikasi-
 Implementation of machine learning classification algorithms to predict wine quality based on chemical features.
-# UTS Data Mining - Wine Quality Classification
-
-Project ini dibuat untuk memenuhi Ujian Tengah Semester (UTS) Mata Kuliah Data Mining.
 
 ## Deskripsi
-Penelitian ini bertujuan untuk memprediksi kualitas wine berdasarkan fitur-fitur kimiawi menggunakan beberapa algoritma machine learning klasifikasi.
+Klasifikasi ini bertujuan untuk memprediksi kualitas wine berdasarkan fitur-fitur kimiawi menggunakan beberapa algoritma machine learning klasifikasi.
 
 ## Algoritma yang Digunakan
 - K-Nearest Neighbors (KNN)
